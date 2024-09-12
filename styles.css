@@ -23,6 +23,9 @@ header video{
 	width: 100vw;
 	height: 90vh;
 }
+.pic{
+	align-item:center;
+}
 header {
     position: fixed; /*** ← fixedで固定 ***/
     width: 100%; 
