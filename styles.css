@@ -9,7 +9,9 @@ body{
 	widh:100%;
 }
 img{
-	widh:100%;
+	img{
+max-width: 100%;
+height: auto;
 }
 
 
