@@ -1,11 +1,11 @@
 
 
 body{
+	width: 850px;
 	font-family: 'Noto Sans JP', sans-serif;
 	font-size: 15px;
 	border-top:10px solid #79a1b1;
 }
-
 
 
 
@@ -24,9 +24,6 @@ header video{
 	width: 100vw;
 	height: 90vh;
 }
-.pic{
-	align-item:center;
-}
 header {
     position: fixed; /*** ← fixedで固定 ***/
     width: 100%; 
@@ -41,6 +38,7 @@ header {
 
 .logo {
   font-size: 24px;
+	width: 600px
 }
 
 /* ここから下がハンバーガーメニューに関するCSS */
@@ -168,7 +166,6 @@ header ul li a{
 	display: block;
 }
 .jj{
-	widh:600px;
 	text-align: center;
 	font-size: 24px;
 }
@@ -301,6 +298,7 @@ padding:0;
   display: flex;
 }
 .wrap {
+	width: 200px;
   display: flex;
   align-items: center;
 　height: 340px;
